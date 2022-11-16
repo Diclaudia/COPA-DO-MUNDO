@@ -1,0 +1,17 @@
+#imagem{
+    width: 20%;
+}
+.principal{
+    padding: 30px;
+    font-size: 60px;
+}
+.titulo-principal{
+    padding-left: 20px;
+    font-size: 50px;
+    background: azure;
+}
+.titulo-centralizado {
+    text-align: center;
+    font-size: 30px;
+    color:green;
+}
